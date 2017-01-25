@@ -6,7 +6,7 @@ A complaint about nuisance callers is lodged with the UK's data watchdog every f
 
 ## Data
 
-*For legal reasons we cannot publish the full dataset. However, data on the top twenty calls is provided below.*
+*For legal reasons we cannot publish the full dataset. However, data on the top twenty calls is provided.*
 
 ## Visualisation
 
